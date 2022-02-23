@@ -1,2 +1,2 @@
-# Snake-xenia-using-python
+# Snake-xenzia-using-python
 Spyder
